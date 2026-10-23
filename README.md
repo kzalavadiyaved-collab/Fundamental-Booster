@@ -1,32 +1,5 @@
-<div align="center">
 
 # 📊 Fundamental Booster
-
-### Excel Formulas Mastery Project — PR. 1
-
-*Live, formula-driven workbook covering logic, lookups, dynamic references, dates and filtering.*
-
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Formulas](https://img.shields.io/badge/Formulas-327-blue?style=for-the-badge)
-![Errors](https://img.shields.io/badge/Errors-0-brightgreen?style=for-the-badge)
-![Sheets](https://img.shields.io/badge/Sheets-8-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
-[Overview](#-overview) •
-[Structure](#-workbook-structure) •
-[Task Coverage](#-task-coverage) •
-[Quick Start](#-quick-start) •
-[Assumptions](#-assumptions) •
-[Compatibility](#-compatibility)
-
-</div>
-
----
-
-## video
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1EEPVQYjAekZdBwffJfD3F-sz5n6FMPia/view?usp=sharing)
-
----
 
 
 ## 🎯 Overview
@@ -156,16 +129,9 @@ Fundamental_Booster.xlsx
 
 ---
 
-## 🛠 Skills Demonstrated
 
-`Cell Referencing` · `Conditional Logic` · `Conditional Aggregation` · `Lookup Functions` · `Text Manipulation` · `Dynamic Ranges` · `Date Arithmetic` · `Financial Rounding` · `Data Filtering` · `Documentation`
+## video
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1EEPVQYjAekZdBwffJfD3F-sz5n6FMPia/view?usp=sharing)
 
 ---
 
-<div align="center">
-
-**Made with 📊 for PR. 1 — Fundamental Booster**
-
-*Replace this line with your name, course and date.*
-
-</div>
